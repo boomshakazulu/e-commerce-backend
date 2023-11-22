@@ -24,7 +24,7 @@
 
 ## Usage
 
-  to use the app run "npm start" in the terminal, navigate to http://localhost:3001/<-data name->(product, category or tags) in insomnia and send the request for data that you wish to access or modify. See a short demonstration here.
+  to use the app run "npm start" in the terminal, navigate to http://localhost:3001/<-data name->(product, category or tags) in insomnia and send the request for data that you wish to access or modify. [See a short demonstration here](https://drive.google.com/file/d/11SHVMVCWkIJPkgRY9lxwl17W23zid_rE/view).
 
 ---
 
